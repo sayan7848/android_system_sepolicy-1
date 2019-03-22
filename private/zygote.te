@@ -119,7 +119,6 @@ get_prop(zygote, overlay_prop)
 get_prop(zygote, exported_overlay_prop)
 
 # Themes
-get_prop(zygote, theme_prop)
 get_prop(zygote, exported_theme_prop)
 
 ###
